@@ -17,6 +17,6 @@
     "@apollo/rover": "^0.6.0",
     "apollo-server": "^3.6.7",
     "dotenv": "^16.0.0",
-    "graphql": "^16.4.0"
+    "graphql": "^16.12.0"
   }
 }
